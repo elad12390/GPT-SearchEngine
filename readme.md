@@ -23,7 +23,7 @@ Simply type your query in the **Firefox search bar** and select **ChatGPT** to g
 
 ## Support
 
-For any issues or questions, please contact our support team at [support@example.com](mailto:support@example.com).
+For any issues or questions, please create a ticket on our [support page](https://example.com/support).
 
 ## License
 
